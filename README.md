@@ -1,1 +1,1 @@
-# Neural_network_C-_GUI
+# Neural_network_C#-_GUI
